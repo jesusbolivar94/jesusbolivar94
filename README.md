@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 HCPro<br>🌱 Node.js<br>💬 PHP
+🔭 Currently working in: HCPro<br>🌱 Learning: Node.js<br>💬 Ask me about: PHP
 
 
 ## 🌐 Socials:
@@ -11,9 +11,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=jesusbolivar94&theme=buefy&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=jesusbolivar94&theme=buefy&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jesusbolivar94&theme=buefy&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=jesusbolivar94&icon=4&color=3)](https://visitcount.itsvg.in)
