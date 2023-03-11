@@ -1,6 +1,14 @@
 # 💫 About Me:
 🔭 Currently working in: HCPro<br>🌱 Learning: Node.js<br>💬 Ask me about: PHP
 
+As a PHP developer, I have contributed to the development of multiple projects. Throughout my career, I have gained extensive experience in developing web applications based on PHP, including the use of popular frameworks such as Laravel.
+
+My skills include creating scalable and high-performance solutions, integrating with third-party APIs and systems, optimizing databases, working with version control systems such as Git.
+
+I have also developed collaboration skills working in multidisciplinary teams, using agile methodologies, and conducting thorough testing to ensure software quality. With a strong understanding of object-oriented programming principles, as well as software design patterns and architectures, I have contributed to the development of robust and scalable applications.
+
+Overall, my experience as a PHP developer has allowed me to make significant contributions to the success of multiple projects, and I have proven to be a valuable member of the development team in which I have worked.
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/j5rojo) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jesusbolivardev) 
