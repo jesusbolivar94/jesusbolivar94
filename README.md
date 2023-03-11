@@ -1,4 +1,4 @@
-# 💫 About Me
+# 💫 About Me [![](https://visitcount.itsvg.in/api?id=jesusbolivar94&icon=4&color=3)](https://visitcount.itsvg.in)
 🔭 Currently working in: HCPro<br>🌱 Learning: Node.js<br>💬 Ask me about: PHP
 
 As a PHP developer, I have contributed to the development of multiple projects. Throughout my career, I have gained extensive experience in developing web applications based on PHP, including the use of popular frameworks such as Laravel.
@@ -16,8 +16,3 @@ Overall, my experience as a PHP developer has allowed me to make significant con
 ![](https://github-readme-stats.vercel.app/api?username=jesusbolivar94&theme=buefy&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=jesusbolivar94&theme=buefy&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jesusbolivar94&theme=buefy&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
----
-[![](https://visitcount.itsvg.in/api?id=jesusbolivar94&icon=4&color=3)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
